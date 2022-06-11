@@ -54,6 +54,7 @@ const detailIngredient = [
             "dijilat",
             "dicelupin"
         ],
+        "writer" : "(coli enak 3 kali sehari)",
         "source" : "https://id.wikipedia.org/wiki/Jahe"
     },
     {
